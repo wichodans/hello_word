@@ -49,3 +49,6 @@ class Carro:
     def limpiar_carro (self):
         self.seccion["carro"] = {}
         self.seccion.modified = True
+
+    def prueba_GitHub ():
+        pass
